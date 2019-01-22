@@ -1,0 +1,55 @@
+angeline syenny
+S1
+n
+5
+hello
+angeline syenny
+S1
+n
+8
+oh yeah 
+angeline syenny
+S1
+n
+13
+hello syenny 
+angeline syenny
+S1
+n
+18
+hello syennyyyyyyy
+angeline syenny
+S1
+n
+12
+hello syenny
+angeline syenny
+S1
+n
+5
+/quit
+angeline syenny
+S0
+n
+5
+/quit
+angeline syenny
+S0
+n
+5
+/quit
+angeline syenny
+S0
+n
+5
+/quit
+angeline syenny
+S0
+n
+5
+/quit
+angeline syenny
+S0
+n
+5
+/quit
